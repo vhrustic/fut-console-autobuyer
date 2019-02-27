@@ -1,2 +1,5 @@
 env/
 .DS_Store
+fab_cookie
+token.txt
+fut_credentials.json
